@@ -1,5 +1,5 @@
 # app.py
-# This is a test commit by me on 18th DEC 2025(Recalling the modification)
+# This is a test commit by me on 18th DEC
 def add(a, b):
     return a + b
 
