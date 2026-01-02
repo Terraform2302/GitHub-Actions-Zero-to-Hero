@@ -1,5 +1,5 @@
 # app.py
-# This is a to display output modification updated now for last time Basic
+# This is a to display output modification updated now for
 def add(a, b):
     return a + b
 
